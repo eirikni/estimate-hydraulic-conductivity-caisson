@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper below:"
+authors:
+  - family-names: "Nilsen"
+    given-names: "Eirik"
+  orcid: "https://orcid.org/0009-0000-4141-9332"
+title: "estimate-hydraulic-conductivity-caisson"
+version: 1.0.0
+date-released: 2025-07-07
+doi: 10.0000/zenodo.0000
+preferred-citation:
+  type: article
+  title: "Estimating Hydraulic Conductivity of Sand Based on Suction Caisson Installation Data"
+  authors:
+    - family-names: "Nilsen"
+      given-names: "Eirik"
+      orcid: "https://orcid.org/0009-0000-4141-9332"
+    - family-names: "Jostad"
+      given-names: "Hans Petter"
+    - family-names: "Pan"
+      given-names: "Yutao"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 10 # Last page number
+  issue: 1
+  volume: 1
+  year: 2021
