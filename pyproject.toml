@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "estimate-hydraulic-conductivity-caisson"
+version = "1.0.0"
+description = "Repository for estimating hydraulic conductivity from caisson installation data"
+authors = ["Eirik Nilsen <eirik.nilsen@ngi.no>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^2.2.1"
+scipy = "^1.15.1"
+matplotlib = "^3.10.0"
+pandas = "^2.2.3"
+ipykernel = "^6.29.5"
+openpyxl = "^3.1.5"
+black = "^24.10.0"
+gstools = "^1.6.1"
+pathlib = "^1.0.1"
+seaborn = "^0.13.2"
+mph = "^1.2.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
